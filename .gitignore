@@ -25,4 +25,4 @@ dist-ssr
 
 api/node_modules
 api/.env
-# api/uploads/*
+api/uploads/*
